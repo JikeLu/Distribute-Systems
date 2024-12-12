@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark><name>AGGRAVATED ASSAULT</name><description>3800 FORBES AV, 8/3/91</description><Point><coordinates>-79.956707,40.441643,0</coordinates></Point></Placemark>
+<Placemark><name>AGGRAVATED ASSAULT</name><description>3800 FORBES AV, 8/10/95</description><Point><coordinates>-79.956707,40.441643,0</coordinates></Point></Placemark>
+<Placemark><name>AGGRAVATED ASSAULT</name><description>3803 FORBES AV, 7/31/96</description><Point><coordinates>-79.956802,40.441726,0</coordinates></Point></Placemark>
+<Placemark><name>AGGRAVATED ASSAULT</name><description>3801 FORBES AV, 10/25/97</description><Point><coordinates>-79.956811,40.441719,0</coordinates></Point></Placemark>
+</Document>
+</kml>
